@@ -10445,3 +10445,12 @@ body.body_dark .header-menu.header-menu-2 .menu > .nav-item > .nav-link {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.my-blog > h4, .my-blog > p {
+  overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 2;
+           line-clamp: 2; 
+   -webkit-box-orient: vertical;
+}
