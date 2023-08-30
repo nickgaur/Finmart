@@ -10454,3 +10454,7 @@ body.body_dark .header-menu.header-menu-2 .menu > .nav-item > .nav-link {
            line-clamp: 2; 
    -webkit-box-orient: vertical;
 }
+
+html, body {
+  overflow-x: hidden;
+}
